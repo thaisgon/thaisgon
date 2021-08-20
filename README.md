@@ -8,6 +8,7 @@ My name is Thais Gonçalves 👩🏽
 - 💻 Front-End
 - 📲 Dev Mobile
 
+
 Reach me out 👇🏼
 
 
@@ -17,6 +18,7 @@ Reach me out 👇🏼
   <a href="https://www.linkedin.com/in/thaisgon" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
 
 ##
   
