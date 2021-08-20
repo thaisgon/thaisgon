@@ -9,5 +9,6 @@ My name is Thais Gonçalves 👩🏽
 - 📲 Dev Mobile
 
 Reach me out 👇🏼
+
 [
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaisgon/)](https://www.linkedin.com/in/thaisgon/) 
