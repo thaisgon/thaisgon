@@ -10,5 +10,8 @@ My name is Thais Gonçalves 👩🏽
 
 Reach me out 👇🏼
 
-[
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaisgon/)](https://www.linkedin.com/in/thaisgon/) 
+<div> 
+    <a href="https://www.linkedin.com/in/thaisgon" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+</div>
+
