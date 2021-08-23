@@ -2,7 +2,7 @@
 
 My name is Thais Gonçalves 👩🏽
 
-📚 I'm currently studying Technology in Mobile Development, as new challenges always motivate me to learn and I love the technology area, especially development. 
+📚 I believe that the search for knowledge and continuous improvement should be part of our daily lives, so that we can become better professionals and people, that's why I'm currently studying Technology in Mobile Development, I love the technology area, especially development. I already had contact with the area during the course on Computers for the Internet that I took.
 
 - 🏠 São Paulo - BR
 - 💻 Front-End
