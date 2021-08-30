@@ -16,9 +16,10 @@ Reach me out 👇🏼
 
   <a href = "mailto:thaisgs.silva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thaisgon" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <img align="right" alt="Rafa-yoda" height="110" width="110" src="https://cdn.discordapp.com/attachments/881884395651362830/881885433473142784/melhor2.gif">
   
 </div>
-<img align="right" alt="Rafa-yoda" height="110" width="110" src="https://cdn.discordapp.com/attachments/881884395651362830/881885433473142784/melhor2.gif">
+
 
 <div style="display: inline_block"><br>  
   <img align="center" alt="thais-HTML" height="30" width="90" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">   
@@ -34,8 +35,8 @@ Reach me out 👇🏼
   
 <div>
   <a href="https://github.com/thaisgon">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=thaisgon&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisgon&layout=compact&langs_count=7&theme=radical"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=thaisgon&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisgon&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
 
