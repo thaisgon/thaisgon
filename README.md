@@ -4,10 +4,11 @@ My name is Thais Gonçalves 👩🏽
 
 📚  I believe that the search for knowledge and continuous improvement should be part of our daily lives, so that we can become better professionals and people, that's why I'm currently studying Technology in Mobile Development, I love the technology area, especially development. I already had contact with the area during the course on Computers for the Internet that I took.
 
+
 - 🏠 São Paulo - BR
 - 💻 Front-End
 - 📲 Dev Mobile
-<img align="right" alt="Rafa-yoda" height="150" width="150" src="https://cdn.discordapp.com/attachments/881884395651362830/881885433473142784/melhor2.gif">  
+  <img align="right" alt="Rafa-yoda" height="150" width="150" src="https://cdn.discordapp.com/attachments/881884395651362830/881885433473142784/melhor2.gif">
 
 Reach me out 👇🏼
 
