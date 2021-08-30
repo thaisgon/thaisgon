@@ -2,7 +2,8 @@
 
 My name is Thais Gonçalves 👩🏽
 
-📚  I believe that the search for knowledge and continuous improvement should be part of our daily lives, so that we can become better professionals and people, that's why I'm currently studying Technology in Mobile Development, I love the technology area, especially development. I already had contact with the area during the course on Computers for the Internet that I took.
+📚 Acredito que a busca pelo conhecimento e a melhoria contínua devem fazer parte do nosso dia a dia, para que possamos nos tornar melhores profissionais e pessoas, por isso atualmente estou cursando Tecnologia em Desenvolvimento Móvel, adoro a área de tecnologia, principalmente de desenvolvimento. 
+Já tive contato com a área durante o curso de Informática para Internet que fiz.
 
 
 - 🏠 São Paulo - BR
