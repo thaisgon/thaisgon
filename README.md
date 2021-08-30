@@ -1,7 +1,7 @@
 ## Olá, eu sou a Thais! 👋 👩🏽
  
 
-📚 Acredito que a busca pelo conhecimento e a melhoria contínua devem fazer parte do nosso dia a dia, para que possamos nos tornar melhores profissionais e pessoas, por isso atualmente estou cursando Tecnologia em Desenvolvimento Móvel, adoro a área de tecnologia, principalmente de desenvolvimento. 
+📚 Acredito que a busca pelo conhecimento e a melhoria contínua devem fazer parte do nosso dia a dia, para que possamos nos tornar melhores profissionais e pessoas, por isso atualmente estou cursando Tecnologia em Desenvolvimento Mobile, adoro a área de tecnologia, principalmente desenvolvimento. 
 Já tive contato com a área durante o curso de Informática para Internet que fiz.
 
 
