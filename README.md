@@ -8,7 +8,7 @@ My name is Thais Gonçalves 👩🏽
 - 🏠 São Paulo - BR
 - 💻 Front-End
 - 📲 Dev Mobile
-  <img align="right" alt="Rafa-yoda" height="150" width="150" src="https://cdn.discordapp.com/attachments/881884395651362830/881885433473142784/melhor2.gif">
+  <img align="right" alt="Rafa-yoda" height="170" width="170" src="https://cdn.discordapp.com/attachments/881884395651362830/881885433473142784/melhor2.gif">
 
 Reach me out 👇🏼
 
