@@ -24,9 +24,12 @@ Reach me out 👇🏼
   <img align="center" alt="thais-bootstrap" height="30" width="90" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> 
   <img align="center" alt="thais-CSS" height="30" width="90" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">    
   <img align="center" alt="thais-Java" height="30" width="90" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">    
+  <img align="right" alt="Rafa-yoda" height="110" width="110" src="https://cdn.discordapp.com/attachments/881884395651362830/881885433473142784/melhor2.gif">
 </div>
 
+
 ##  
+
   
 <div>
   <a href="https://github.com/thaisgon">
