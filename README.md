@@ -6,7 +6,7 @@
 
 - 🏠 São Paulo - BR
 - 💻 Front-End
-- 📲 Dev Mobile
+- 📲 Dev Mobile IOS
   <a href = "https://github.com/thaisgon"><img align="right" alt="Rafa-yoda" height="170" width="170" src="https://cdn.discordapp.com/attachments/881884395651362830/881885433473142784/melhor2.gif"></a>
 
 Reach me out 👇🏼
