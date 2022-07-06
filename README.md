@@ -1,7 +1,7 @@
 ## Olá, eu sou a Thais! 👋
  
 
-📚 Acredito que a busca por conhecimento e melhoria continua devem fazer parte do nosso dia-a-dia, para nos transformar em profissionais e pessoas melhores, por isso atualmente estou cursando Tecnologia em Desenvolvimento Mobile, eu amo a aérea de tecnologia principalmente desenvolvimento. Já tive contato com a área durante o curso de Informática para internet que fiz.
+📚 Acredito que a busca por conhecimento e melhoria continua devem fazer parte do nosso dia-a-dia, para nos transformar em profissionais e pessoas melhores, por isso atualmente estou cursando Tecnologia em Desenvolvimento Mobile, eu amo a aérea de tecnologia principalmente desenvolvimento.
 
 
 - 🏠 São Paulo - BR
