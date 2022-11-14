@@ -24,8 +24,13 @@ Reach me out 👇🏼
  <img align="center" alt="thais-Swift" height="30" width="90" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">  
 </div>
 
+
 ##  
   
+  <div>
+  <a href="https://github.com/thaisgon">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisgon&layout=compact&langs_count=7&theme=radical"/>
+</div>  
 
   
   ![Snake animation](https://github.com/thaisgon/thaisgon/blob/output/github-contribution-grid-snake.svg)
