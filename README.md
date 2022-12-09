@@ -1,7 +1,7 @@
 ## Olá, eu sou a Thais! 👋
  
 
-📚 Acredito que a busca por conhecimento e melhoria continua devem fazer parte do nosso dia-a-dia, para nos transformar em profissionais e pessoas melhores, por isso atualmente estou cursando 4° semestre de Tecnologia em Desenvolvimento Mobile, eu amo a área de tecnologia principalmente desenvolvimento.
+📚 Acredito que a busca por conhecimento e melhoria continua devem fazer parte do nosso dia-a-dia, para nos transformar em profissionais e pessoas melhores, por isso atualmente estou cursando Tecnologia em Desenvolvimento Mobile, eu amo a área de tecnologia principalmente desenvolvimento mobile iOS.
 
 
 - 🏠 São Paulo - BR
