@@ -16,12 +16,14 @@ Reach me out 👇🏼
   <a href="https://www.linkedin.com/in/thaisgon" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-  <div style="display: inline_block"><br>  
-  <img align="center" alt="thais-Swift" height="30" width="90" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"> 
+
+  <div style="display: inline_block"><br> 
+     <img align="center" alt="thais-Swift" height="30" width="90" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"> 
+  <img align="center" alt="thais-Java" height="30" width="90" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">  
   <img align="center" alt="thais-HTML" height="30" width="90" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">   
   <img align="center" alt="thais-Bootstrap" height="30" width="90" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> 
-  <img align="center" alt="thais-CSS" height="30" width="90" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">    
-  <img align="center" alt="thais-Java" height="30" width="90" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">  
+  <img align="center" alt="thais-CSS" height="30" width="90" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">     
+   
 </div>
 
 
