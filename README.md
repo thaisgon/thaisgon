@@ -1,12 +1,13 @@
 ## Olá, eu sou a Thais! 👋
  
 
-📚 Acredito que a busca por conhecimento e melhoria continua devem fazer parte do nosso dia-a-dia, para nos transformar em profissionais e pessoas melhores, por isso atualmente estou cursando Tecnologia em Desenvolvimento Mobile, eu amo a área de tecnologia principalmente desenvolvimento mobile iOS.
+📚 Acredito que a busca por conhecimento e melhoria continua devem fazer parte do nosso dia-a-dia, para nos transformar em profissionais e pessoas melhores.
 
 
 - 🏠 São Paulo - BR
-- 💻 Front-End
-- 📲 Dev Mobile iOS | Swift 
+- 📲 iOS Developer | Swift | UIKit | SwiftUI
+- 📈 Analista de Dados | Python | Power BI | SQL | Excel | Data Analytics
+  
   <a href = "https://github.com/thaisgon"><img align="right" alt="Rafa-yoda" height="170" width="170" src="https://cdn.discordapp.com/attachments/881884395651362830/881885433473142784/melhor2.gif"></a>
 
 Reach me out 👇🏼
