@@ -29,8 +29,7 @@ Reach me out 👇🏼
 
 ##  
 
-  
-  ![Snake animation](https://github.com/thaisgon/thaisgon/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
